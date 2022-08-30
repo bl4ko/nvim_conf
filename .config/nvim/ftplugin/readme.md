@@ -1,0 +1,3 @@
+- Configs for certain filetypes.
+- Get **filetype** with writing in buffer
+- `:set ft?`
